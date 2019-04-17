@@ -1,0 +1,24 @@
+{
+  "name": "Challenge-Summation-of-primes",
+  "version": "1.0.0",
+  "description": "Challenge 10 ===========",
+  "main": "challenge_10.js",
+  "scripts": {
+    "test": "mocha --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devleague/Challenge-Summation-of-primes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devleague/Challenge-Summation-of-primes/issues"
+  },
+  "homepage": "https://github.com/devleague/Challenge-Summation-of-primes#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.3"
+  }
+}
